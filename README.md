@@ -12,4 +12,10 @@ dotnetCore practice
 (https://www.youtube.com/watch?v=lqNwdO9E-OQ)  
 (https://www.youtube.com/watch?v=oywjqZX0eWE)  
 (https://www.youtube.com/watch?v=B4xZXdXIE2o)
+  
+reverse proxy  
+(https://www.youtube.com/watch?v=D2P5cRMi0fQ)  
+(https://www.youtube.com/watch?v=X3Pr5VATOyA)  
+(https://www.youtube.com/watch?v=Db1Jr9TKPuc)  
+
 
